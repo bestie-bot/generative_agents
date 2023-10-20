@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Klaus are discussing the preparations for the Valentine's Day party at the cafe, including inviting friends and setting up decorations. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! How's everything going? I hope you're enjoying your lunch."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! Everything is going well, thank you. I'm enjoying my lunch. How about you? How's your afternoon walk?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm having a nice walk. I was actually thinking about the Valentine's Day party tomorrow at the cafe. Are you planning on coming?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I was actually thinking about going to the Valentine's Day party tomorrow. It sounds like a fun event."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I'm really looking forward to seeing you there. It's going to be a great party!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to it too! It's always a fun time at the cafe's parties. Do you know what time it starts?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The Valentine's Day party starts at 5pm tomorrow. You should definitely come!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll make sure to mark it in my calendar! Thanks for letting me know."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Also, don't forget to invite your friends! The more, the merrier!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'll make sure to invite my friends. It'll be more fun with everyone there!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're planning on coming! I've been working hard to make sure it's a memorable party."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything I can do to help with the preparations for the party?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Klaus! I appreciate the offer. I could use some help with setting up the decorations for the party. Are you available tomorrow at around 3pm to assist?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I can definitely help with setting up the decorations tomorrow at 3pm. Just let me know where and I'll be there!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Thank you so much for agreeing to help with the decorations. Let's meet at the cafe at 3pm tomorrow. I'll make sure to have everything ready for us to set up."
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, Isabella, what kind of decorations are you planning for the party?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        101,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "having lunch (paying for her food) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Klaus are discussing the preparations for the Valentine's Day party at the cafe, including inviting friends and setting up decorations. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! How's everything going? I hope you're enjoying your lunch."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! Everything is going well, thank you. I'm enjoying my lunch. How about you? How's your afternoon walk?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm having a nice walk. I was actually thinking about the Valentine's Day party tomorrow at the cafe. Are you planning on coming?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I was actually thinking about going to the Valentine's Day party tomorrow. It sounds like a fun event."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I'm really looking forward to seeing you there. It's going to be a great party!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to it too! It's always a fun time at the cafe's parties. Do you know what time it starts?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The Valentine's Day party starts at 5pm tomorrow. You should definitely come!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll make sure to mark it in my calendar! Thanks for letting me know."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Also, don't forget to invite your friends! The more, the merrier!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'll make sure to invite my friends. It'll be more fun with everyone there!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're planning on coming! I've been working hard to make sure it's a memorable party."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything I can do to help with the preparations for the party?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Klaus! I appreciate the offer. I could use some help with setting up the decorations for the party. Are you available tomorrow at around 3pm to assist?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I can definitely help with setting up the decorations tomorrow at 3pm. Just let me know where and I'll be there!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Thank you so much for agreeing to help with the decorations. Let's meet at the cafe at 3pm tomorrow. I'll make sure to have everything ready for us to set up."
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, Isabella, what kind of decorations are you planning for the party?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:43:40"
+  }
+}
