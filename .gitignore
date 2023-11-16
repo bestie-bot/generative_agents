@@ -19,6 +19,9 @@ __pycache__/
 # C extensions
 *.so
 
+logs/
+reverie/logs/*
+
 # Distribution / packaging
 .Python
 env/
